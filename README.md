@@ -81,11 +81,8 @@ git clone https://github.com/hari7264/MY-PYTHON-PROJECTS.git
 
 Welcome to my awesome project! Here's a screenshot of what it looks like:
 
-![Screenshot](https://github.com/hari7261/MY-PYTHON-PROJECTS/blob/main/img1.png)
+![Screenshot](https://github.com/hari7261/MY-PYTHON-PROJECTS/raw/96e45f5be69e6b171593a0098cf5409af3cbd6d3/img1.png)
 
-https://github.com/hari7261/MY-PYTHON-PROJECTS/blob/main/img2.png
-
-https://github.com/hari7261/MY-PYTHON-PROJECTS/blob/main/img3.png
 # My Awesome Project
 
 Welcome to my awesome project! Here's a screenshot of what it looks like:
