@@ -76,3 +76,10 @@ This project is a simple Python application built with Tkinter that allows users
 
 ```bash
 git clone https://github.com/hari7264/MY-PYTHON-PROJECTS.git
+
+# My Awesome Project
+
+Welcome to my awesome project! Here's a screenshot of what it looks like:
+
+![Screenshot](https://github.com/path/to/hari7261/img1.png)
+
