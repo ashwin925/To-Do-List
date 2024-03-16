@@ -73,20 +73,11 @@ This project is a simple Python application built with Tkinter that allows users
 ## Usage
 
 1. Clone the repository to your local machine:
+2. ![Screenshot](https://github.com/hari7261/MY-PYTHON-PROJECTS/raw/96e45f5be69e6b171593a0098cf5409af3cbd6d3/img1.png)
 
 ```bash
+
+
 git clone https://github.com/hari7264/MY-PYTHON-PROJECTS.git
-
-# My Awesome Project
-
-Welcome to my awesome project! Here's a screenshot of what it looks like:
-
-![Screenshot](https://github.com/hari7261/MY-PYTHON-PROJECTS/raw/96e45f5be69e6b171593a0098cf5409af3cbd6d3/img1.png)
-
-# My Awesome Project
-
-Welcome to my awesome project! Here's a screenshot of what it looks like:
-
-![Screenshot](https://raw.githubusercontent.com/hari7261/your-repository-name/master/path/to/your/screenshot.png)
 
 
