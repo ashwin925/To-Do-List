@@ -74,7 +74,9 @@ This project is a simple Python application built with Tkinter that allows users
 
 1. Clone the repository to your local machine:
 2. ![Screenshot](https://github.com/hari7261/MY-PYTHON-PROJECTS/raw/96e45f5be69e6b171593a0098cf5409af3cbd6d3/img1.png)
+![Screenshot 1](https://github.com/hari7261/MY-PYTHON-PROJECTS/raw/206eeb6c4a9e244814a542443d309b6860e33b3e/img2.png)
 
+![Screenshot 2](https://github.com/hari7261/MY-PYTHON-PROJECTS/raw/206eeb6c4a9e244814a542443d309b6860e33b3e/img3.png)
 ```bash
 
 
