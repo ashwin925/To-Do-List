@@ -44,5 +44,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For any questions or feedback, feel free to contact the project owner:
 
-- Email: your-email@example.com
-- GitHub: YourGitHubUsername
+- Email: hariompandit5556@gmail.com
+- GitHub: https://github.com/hari7261/
